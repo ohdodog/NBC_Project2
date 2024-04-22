@@ -1,0 +1,14 @@
+E:\TeamSparta\NBC_Project2\NBC_Project2\bin\Debug\net8.0\NBC_Project2.exe
+E:\TeamSparta\NBC_Project2\NBC_Project2\bin\Debug\net8.0\NBC_Project2.deps.json
+E:\TeamSparta\NBC_Project2\NBC_Project2\bin\Debug\net8.0\NBC_Project2.runtimeconfig.json
+E:\TeamSparta\NBC_Project2\NBC_Project2\bin\Debug\net8.0\NBC_Project2.dll
+E:\TeamSparta\NBC_Project2\NBC_Project2\bin\Debug\net8.0\NBC_Project2.pdb
+E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\NBC_Project2.GeneratedMSBuildEditorConfig.editorconfig
+E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\NBC_Project2.AssemblyInfoInputs.cache
+E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\NBC_Project2.AssemblyInfo.cs
+E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\NBC_Project2.csproj.CoreCompileInputs.cache
+E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\NBC_Project2.dll
+E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\refint\NBC_Project2.dll
+E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\NBC_Project2.pdb
+E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\NBC_Project2.genruntimeconfig.cache
+E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\ref\NBC_Project2.dll
