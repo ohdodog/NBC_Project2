@@ -166,6 +166,7 @@ namespace NBC_Project2
 
                     // 데이터 형식이 객체로 구성된 List에서 특정값이 존재하는지 체크하는 람다식
                     // 해당 값이 있는 인덱스를 반환
+                    // 인벤 리스트에서 판매 하려고 선택받은 아이템의 이름과 같은 데이터 값을 가진 인덱스를 가져오기 
                     int index = DataManager.Instance.list.FindIndex(item => item.itemname.Equals($"{temp.itemname}"));
 
                     DataManager.Instance.list[index] = temp;

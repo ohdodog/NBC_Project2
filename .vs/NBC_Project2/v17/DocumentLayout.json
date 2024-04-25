@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\TeamSparta\\NBC_Project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|e:\\teamsparta\\nbc_project2\\nbc_project2\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|solutionrelative:nbc_project2\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|e:\\teamsparta\\nbc_project2\\nbc_project2\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|solutionrelative:nbc_project2\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|e:\\teamsparta\\nbc_project2\\nbc_project2\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|solutionrelative:nbc_project2\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|e:\\teamsparta\\nbc_project2\\nbc_project2\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|solutionrelative:nbc_project2\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|e:\\teamsparta\\nbc_project2\\nbc_project2\\rest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +19,16 @@
       "RelativeMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|solutionrelative:nbc_project2\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|e:\\teamsparta\\nbc_project2\\nbc_project2\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|solutionrelative:nbc_project2\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|e:\\teamsparta\\nbc_project2\\nbc_project2\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|solutionrelative:nbc_project2\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|e:\\teamsparta\\nbc_project2\\nbc_project2\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|solutionrelative:nbc_project2\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|e:\\teamsparta\\nbc_project2\\nbc_project2\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|solutionrelative:nbc_project2\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|e:\\teamsparta\\nbc_project2\\nbc_project2\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|solutionrelative:nbc_project2\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E8934F5-038E-453B-A893-2215A0EE57A4}|NBC_Project2\\NBC_Project2.csproj|e:\\teamsparta\\nbc_project2\\nbc_project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -52,39 +52,40 @@
               "RelativeDocumentMoniker": "NBC_Project2\\Rest.cs",
               "ToolTip": "E:\\TeamSparta\\NBC_Project2\\NBC_Project2\\Rest.cs",
               "RelativeToolTip": "NBC_Project2\\Rest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwAoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T05:36:24.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DataManager.cs",
               "DocumentMoniker": "E:\\TeamSparta\\NBC_Project2\\NBC_Project2\\DataManager.cs",
               "RelativeDocumentMoniker": "NBC_Project2\\DataManager.cs",
               "ToolTip": "E:\\TeamSparta\\NBC_Project2\\NBC_Project2\\DataManager.cs",
               "RelativeToolTip": "NBC_Project2\\DataManager.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAADwv8wAAAAmAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwMwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T09:58:08.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Shop.cs",
               "DocumentMoniker": "E:\\TeamSparta\\NBC_Project2\\NBC_Project2\\Shop.cs",
               "RelativeDocumentMoniker": "NBC_Project2\\Shop.cs",
               "ToolTip": "E:\\TeamSparta\\NBC_Project2\\NBC_Project2\\Shop.cs",
               "RelativeToolTip": "NBC_Project2\\Shop.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAABqAAAA",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAQwKgAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T00:34:46.787Z"
+              "WhenOpened": "2024-04-24T00:34:46.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Item.cs",
               "DocumentMoniker": "E:\\TeamSparta\\NBC_Project2\\NBC_Project2\\Item.cs",
               "RelativeDocumentMoniker": "NBC_Project2\\Item.cs",
@@ -92,17 +93,18 @@
               "RelativeToolTip": "NBC_Project2\\Item.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T14:15:49.806Z"
+              "WhenOpened": "2024-04-23T14:15:49.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Character.cs",
               "DocumentMoniker": "E:\\TeamSparta\\NBC_Project2\\NBC_Project2\\Character.cs",
               "RelativeDocumentMoniker": "NBC_Project2\\Character.cs",
               "ToolTip": "E:\\TeamSparta\\NBC_Project2\\NBC_Project2\\Character.cs",
               "RelativeToolTip": "NBC_Project2\\Character.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAArAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwAwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T13:10:09.594Z",
               "EditorCaption": ""
@@ -115,21 +117,23 @@
               "RelativeDocumentMoniker": "NBC_Project2\\Dungeon.cs",
               "ToolTip": "E:\\TeamSparta\\NBC_Project2\\NBC_Project2\\Dungeon.cs",
               "RelativeToolTip": "NBC_Project2\\Dungeon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAAlAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwv48AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T00:31:08.483Z"
+              "WhenOpened": "2024-04-25T00:31:08.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Inventory.cs",
               "DocumentMoniker": "E:\\TeamSparta\\NBC_Project2\\NBC_Project2\\Inventory.cs",
               "RelativeDocumentMoniker": "NBC_Project2\\Inventory.cs",
               "ToolTip": "E:\\TeamSparta\\NBC_Project2\\NBC_Project2\\Inventory.cs",
               "RelativeToolTip": "NBC_Project2\\Inventory.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAADwvzcAAAAtAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAwDcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T07:47:15.333Z"
+              "WhenOpened": "2024-04-23T07:47:15.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -139,9 +143,10 @@
               "RelativeDocumentMoniker": "NBC_Project2\\Program.cs",
               "ToolTip": "E:\\TeamSparta\\NBC_Project2\\NBC_Project2\\Program.cs",
               "RelativeToolTip": "NBC_Project2\\Program.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAADwAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T06:33:43.617Z"
+              "WhenOpened": "2024-04-22T06:33:43.617Z",
+              "EditorCaption": ""
             }
           ]
         }
