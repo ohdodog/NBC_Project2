@@ -12,3 +12,4 @@ E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\refint\NBC_Project2.dll
 E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\NBC_Project2.pdb
 E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\NBC_Project2.genruntimeconfig.cache
 E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\ref\NBC_Project2.dll
+E:\TeamSparta\NBC_Project2\NBC_Project2\obj\Debug\net8.0\NBC_Project2.sourcelink.json
