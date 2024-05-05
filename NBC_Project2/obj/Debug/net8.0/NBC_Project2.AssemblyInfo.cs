@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NBC_Project2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+260d48792c12fd060887ad298a3073b59422bbe8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39e6ea42ea1eae1c6f4d3fac19db2fc31a278aab")]
 [assembly: System.Reflection.AssemblyProductAttribute("NBC_Project2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NBC_Project2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
